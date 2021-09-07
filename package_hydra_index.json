@@ -22,8 +22,8 @@
           "checksum": "SHA-256:7374BF5ED08136E4361090CD049132F8A6294778618FBBEFC769613C5CA4B443",
           "size": "274408",
           "boards": [
-            { "name": "Hydramega50" },
-            { "name": "Hydramega1612" }
+            { "name": "Hydramega_50" },
+            { "name": "Hydramega_1612" }
           ],
           "toolsDependencies": [
             {
