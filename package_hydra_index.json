@@ -17,9 +17,9 @@
           "help": {
             "online": "https://github.com/nxcuong/hydra.github.io"
           },
-          "url": "https://github.com/nxcuong/hydra.github.io/raw/main/hydra%20v1.0.1.zip",
-          "archiveFileName": "hydra v1.0.1.zip",
-          "checksum": "SHA-256:5DDCA13FA2D954E760653C8B8009166284F5A4D20EC0C4BE60A45635B0D2B247",
+          "url": "https://github.com/nxcuong/hydra.github.io/raw/main/hydramega.zip",
+          "archiveFileName": "hydramega.zip",
+          "checksum": "SHA-256:7374BF5ED08136E4361090CD049132F8A6294778618FBBEFC769613C5CA4B443",
           "size": "274408",
           "boards": [
             { "name": "Hydramega50" },
