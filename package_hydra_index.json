@@ -1,0 +1,48 @@
+{
+  "packages": [
+    {
+      "name": "hydra boards",
+      "maintainer": "deMen Nguyen",
+      "websiteURL": "https://github.com/nxcuong/hydra.github.io",
+      "email": "nxcuongbk@gmail.com",
+      "help": {
+        "online": "https://github.com/nxcuong/hydra.github.io"
+      },
+      "platforms": [
+        {
+          "name": "Hydramega family",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/nxcuong/hydra.github.io"
+          },
+          "url": "https://github.com/nxcuong/hydra.github.io/hydra-v1.0.1.zip",
+          "archiveFileName": "hydra-v1.0.1.zip",
+          "checksum": "SHA-256:90BC5D5AABC95E046CAF3054778B7DB1B4D83CF4BD13A144AE1F46E950140831",
+          "size": "739897",
+          "boards": [
+            { "name": "Hydramega50" },
+            { "name": "Hydramega1612" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.9.2-atmel3.5.3-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino8"
+            }
+          ]
+        }
+
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
+
